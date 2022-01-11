@@ -3,7 +3,7 @@ import java.util.Random;
 public class RandomPasswordGenerate {
   public static void main(String[] args) {
 
-    // create a string of uppercase and lowercase characters and numbers
+    // create a string of uppercase and lowercase characters numbers and specialCharacter
     String upperAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     String lowerAlphabet = "abcdefghijklmnopqrstuvwxyz";
     String numbers = "0123456789";
